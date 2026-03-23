@@ -4,6 +4,26 @@ A production-ready implementation of **Agentic Retrieval-Augmented Generation (R
 
 ---
 
+## 📖 Medium Article
+
+This project is accompanied by a detailed walkthrough on Medium:
+
+**[Agentic RAG with MCP Server — Every Line of Code Explained Simply](https://medium.com/tech-ai-made-easy/agentic-rag-with-mcp-server-every-line-of-code-explained-simply-9ddff277d699?sk=2a286eb22d47f7aaf7a8c726461d9cec)**
+
+> *Stop hallucinating. Start retrieving. Here's how to build an AI that actually finds answers instead of making them up.*
+
+Published in **[Tech & AI Made Easy](https://medium.com/tech-ai-made-easy)** by **Jyoti Dabass, Ph.D.**
+
+The article covers:
+- A plain-English breakdown of RAG, Agentic RAG, and MCP concepts
+- Step-by-step explanation of every line of code across all project files
+- How the agentic loop works (the 3-round GPT ↔ tool cycle)
+- SSE vs STDIO transport comparison
+- How to extend the project with new tools and a full MongoDB + Pinecone pipeline
+- Common errors and how to fix them
+
+---
+
 ## 📌 Table of Contents
 
 - [What Is This Project?](#what-is-this-project)
